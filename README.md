@@ -1,11 +1,6 @@
 #SyntaxHighlighter Evolved Hercules
-Donate link: http://www.viper007bond.com/wordpress-plugins/syntaxhighlighter/donate/
-Tags: syntax, hightligher, apache, code, CSS, html, php, sourcecode
-Requires at least: 3.2.1
-Tested up to: 4.5.2
-Stable tag: 1.0.0
-
 Adds support for Hercules *.cnf files to the SyntaxHighlighter Evolved plugin using [hercules]
+More info in http://www.ezqfil.com.ar/hercules-brush-syntaxhighlighter-evolved-wordpress-plugin/
 
 ##Description
 <b>SyntaxHighlighter Evolved into</b> adds support to the [SyntaxHighlighter Evolved](http://wordpress.org/extend/plugins/syntaxhighlighter/) plugin for Hercules *.cnf files based on the ApacheConfig brush provided by [Steve Ward](http://www.tech-otaku.com/blogging/apache-brush-syntaxhighlighter-evolved-wordpress-plugin/). 
