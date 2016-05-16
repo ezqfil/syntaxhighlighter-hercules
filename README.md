@@ -1,5 +1,5 @@
 #SyntaxHighlighter Evolved Hercules
-Adds support for Hercules *.cnf files to the SyntaxHighlighter Evolved plugin using [hercules]
+Adds support for Hercules *.cnf files to the SyntaxHighlighter Evolved plugin using [hercules]</br>
 More info in http://www.ezqfil.com.ar/hercules-brush-syntaxhighlighter-evolved-wordpress-plugin/
 
 ##Description
